@@ -2,6 +2,10 @@
 
 A full-featured React movie search application that integrates with the OMDb API to provide comprehensive movie, TV show, and episode discovery.
 
+🚀 Live Demo
+Frontend Deployment
+🔗https://moviesebuddy.netlify.app/
+
 ## 🎬 Features
 
 - **Advanced Search**: Search for movies, TV shows, and episodes by title, keywords, or actors
